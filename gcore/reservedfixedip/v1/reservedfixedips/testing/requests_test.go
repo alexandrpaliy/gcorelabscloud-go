@@ -10,10 +10,10 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 )
 
 func prepareListTestURLParams(projectID int, regionID int) string {

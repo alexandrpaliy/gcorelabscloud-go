@@ -2,21 +2,21 @@ package testing
 
 import (
 	"fmt"
-	metadataV1 "github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata/v1/metadata"
-	metadataV2 "github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata/v2/metadata"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	metadataV1 "github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata/v1/metadata"
+	metadataV2 "github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata/v2/metadata"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 	"testing"
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/loadbalancers"
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/loadbalancers"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/types"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	v1client "github.com/G-Core/gcorelabscloud-go/client/loadbalancers/v1/client"
-	v2client "github.com/G-Core/gcorelabscloud-go/client/loadbalancers/v2/client"
-	gtest "github.com/G-Core/gcorelabscloud-go/client/testing"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	v1client "github.com/alexandrpaliy/gcorelabscloud-go/client/loadbalancers/v1/client"
+	v2client "github.com/alexandrpaliy/gcorelabscloud-go/client/loadbalancers/v2/client"
+	gtest "github.com/alexandrpaliy/gcorelabscloud-go/client/testing"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 )
 
 const (

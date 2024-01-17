@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/identity/tokens"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/identity/tokens"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils"
 )
 
 /*

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"regexp"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func BaseRootEndpoint(endpoint string) (string, error) {

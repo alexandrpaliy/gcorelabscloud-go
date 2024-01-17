@@ -1,7 +1,7 @@
 package subnets
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func resourceActionURL(c *gcorecloud.ServiceClient, id string, action string) string {

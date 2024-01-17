@@ -8,10 +8,10 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/l7policies"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/l7policies"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 )
 
 func prepareListPolicyTestURLParams(projectID int, regionID int) string {

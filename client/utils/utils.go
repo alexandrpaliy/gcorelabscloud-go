@@ -16,8 +16,8 @@ import (
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 var (

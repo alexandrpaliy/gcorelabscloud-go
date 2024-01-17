@@ -5,12 +5,12 @@ import (
 	"net/http"
 	"testing"
 
-	ai "github.com/G-Core/gcorelabscloud-go/gcore/ai/v1/ais"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	ai "github.com/alexandrpaliy/gcorelabscloud-go/gcore/ai/v1/ais"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )

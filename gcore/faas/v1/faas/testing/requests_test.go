@@ -6,14 +6,14 @@ import (
 	"testing"
 
 	"github.com/AlekSi/pointer"
-	"github.com/G-Core/gcorelabscloud-go/gcore/faas/v1/faas"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/faas/v1/faas"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 	"github.com/stretchr/testify/require"
 
 	log "github.com/sirupsen/logrus"
 
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func prepareNamespaceTestURLParams(projectID int, regionID int, nsName string) string { // nolint

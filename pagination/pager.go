@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strings"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 var (

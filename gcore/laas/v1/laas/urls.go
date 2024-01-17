@@ -3,7 +3,7 @@ package laas
 import (
 	"strconv"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func statusURL(c *gcorecloud.ServiceClient) string {

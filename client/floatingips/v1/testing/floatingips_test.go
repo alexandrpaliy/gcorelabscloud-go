@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/floatingips/v1/client"
-	gtest "github.com/G-Core/gcorelabscloud-go/client/testing"
-	"github.com/G-Core/gcorelabscloud-go/gcore/floatingip/v1/floatingips"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/floatingips/v1/client"
+	gtest "github.com/alexandrpaliy/gcorelabscloud-go/client/testing"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/floatingip/v1/floatingips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 )
 
 const (

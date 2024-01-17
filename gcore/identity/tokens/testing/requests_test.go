@@ -5,16 +5,16 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore"
-	"github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore"
+	"github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 
 	"github.com/stretchr/testify/require"
 
 	log "github.com/sirupsen/logrus"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/identity/tokens"
-	"github.com/G-Core/gcorelabscloud-go/testhelper"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/identity/tokens"
+	"github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 // authTokenPost verifies that providing certain AuthOptions results in an expected JSON structure.

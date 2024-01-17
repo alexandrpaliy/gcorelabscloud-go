@@ -6,11 +6,11 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/faas/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/faas/v1/faas"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/faas/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/faas/v1/faas"
 )
 
 const keyNameText = "key_name is mandatory argument"

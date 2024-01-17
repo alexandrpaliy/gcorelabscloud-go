@@ -3,9 +3,9 @@ package snapshots
 import (
 	"fmt"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 )
 
 // MetadataActionResult represents the result of a create, delete or update operation(no content)

@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/heat/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/heat/v1/stack/resources"
-	"github.com/G-Core/gcorelabscloud-go/gcore/heat/v1/stack/resources/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/heat/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/heat/v1/stack/resources"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/heat/v1/stack/resources/types"
 
 	"github.com/urfave/cli/v2"
 )

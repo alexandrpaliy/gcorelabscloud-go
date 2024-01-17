@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/users/v1/users"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/users/v1/users"
 
 const CreateRequest = `
 {

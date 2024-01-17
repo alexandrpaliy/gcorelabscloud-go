@@ -1,6 +1,6 @@
 package quotas
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 // ListCombinedOptsBuilder allows extensions to add additional parameters to the List request.
 type ListCombinedOptsBuilder interface {

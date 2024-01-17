@@ -2,16 +2,16 @@ package testing
 
 import (
 	"fmt"
-	metadataV1 "github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata/v1/metadata"
-	metadataTesting "github.com/G-Core/gcorelabscloud-go/gcore/utils/testing"
+	metadataV1 "github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata/v1/metadata"
+	metadataTesting "github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/testing"
 	"net/http"
 	"net/url"
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )

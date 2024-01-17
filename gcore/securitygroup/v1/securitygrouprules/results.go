@@ -1,7 +1,7 @@
 package securitygrouprules
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 // DeleteResult represents the result of a delete operation

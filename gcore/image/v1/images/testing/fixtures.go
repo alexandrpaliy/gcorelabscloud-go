@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/image/v1/images"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/image/v1/images"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 var ListResponse = fmt.Sprintf(`

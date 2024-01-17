@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/baremetal/v1/bminstances"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/types"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/baremetal/v1/bminstances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/types"
 )
 
 func TestValidateCreateInstanceInterfaceOpts(t *testing.T) {

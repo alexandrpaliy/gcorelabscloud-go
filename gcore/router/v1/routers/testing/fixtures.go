@@ -3,9 +3,9 @@ package testing
 import (
 	"fmt"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/router/v1/routers"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/router/v1/routers"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 )
 
 const CreateRequest = `

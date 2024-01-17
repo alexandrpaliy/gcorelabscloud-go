@@ -4,11 +4,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
-	"github.com/G-Core/gcorelabscloud-go/gcore/port/v1/ports"
-	"github.com/G-Core/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/port/v1/ports"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 const EnableResponse = `

@@ -3,7 +3,7 @@ package ddos
 import (
 	"strconv"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func rootURL(c *gcorecloud.ServiceClient) string {

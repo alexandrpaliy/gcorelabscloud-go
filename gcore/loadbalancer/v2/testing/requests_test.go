@@ -1,7 +1,7 @@
 package testing
 
 import (
-	metadataV2Testing "github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata/v2/metadata/testing"
+	metadataV2Testing "github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata/v2/metadata/testing"
 	"testing"
 )
 

@@ -3,11 +3,11 @@ package testing
 import (
 	"net"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/lbpools"
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/lbpools"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 const ListResponse = `

@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/keystones/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/keystone/v1/keystones"
-	"github.com/G-Core/gcorelabscloud-go/gcore/keystone/v1/types"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/keystones/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/keystone/v1/keystones"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/keystone/v1/types"
 	"github.com/urfave/cli/v2"
 )
 

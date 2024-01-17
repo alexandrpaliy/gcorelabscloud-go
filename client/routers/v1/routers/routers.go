@@ -5,13 +5,13 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/routers/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/subnets/v1/subnets"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/router/v1/routers"
-	"github.com/G-Core/gcorelabscloud-go/gcore/router/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/routers/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/subnets/v1/subnets"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/router/v1/routers"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/router/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 var routerIDText = "router_id is mandatory argument"

@@ -2,17 +2,17 @@ package testing
 
 import (
 	"fmt"
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/subnets/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/gcore/network/v1/networks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/subnet/v1/subnets"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/subnets/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/network/v1/networks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/subnet/v1/subnets"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 	"net"
 	"testing"
 
-	netclient "github.com/G-Core/gcorelabscloud-go/client/networks/v1/client"
-	gtest "github.com/G-Core/gcorelabscloud-go/client/testing"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	netclient "github.com/alexandrpaliy/gcorelabscloud-go/client/networks/v1/client"
+	gtest "github.com/alexandrpaliy/gcorelabscloud-go/client/testing"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 )
 
 const SubnetDeleting int = 1200

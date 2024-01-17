@@ -4,11 +4,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/G-Core/gcorelabscloud-go/client/limits/v2/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/limits/v2/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/gcore/limit/v2/limits"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/limit/v2/limits"
 	"github.com/urfave/cli/v2"
 )
 

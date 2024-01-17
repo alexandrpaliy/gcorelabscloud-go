@@ -3,11 +3,11 @@ package testing
 import (
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/network/v1/networks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/network/v1/networks"
 
-	"github.com/G-Core/gcorelabscloud-go/client/networks/v1/client"
-	gtest "github.com/G-Core/gcorelabscloud-go/client/testing"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/networks/v1/client"
+	gtest "github.com/alexandrpaliy/gcorelabscloud-go/client/testing"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 )
 
 func TestNetworksMetadata(t *testing.T) {

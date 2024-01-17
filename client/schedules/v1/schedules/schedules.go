@@ -1,11 +1,11 @@
 package schedules
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/schedules/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/lifecyclepolicy/v1/lifecyclepolicy"
-	"github.com/G-Core/gcorelabscloud-go/gcore/schedule/v1/schedules"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/schedules/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/lifecyclepolicy/v1/lifecyclepolicy"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/schedule/v1/schedules"
 	"github.com/urfave/cli/v2"
 )
 

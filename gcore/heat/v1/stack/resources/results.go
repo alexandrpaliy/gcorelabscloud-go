@@ -3,9 +3,9 @@ package resources
 import (
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 type commonResult struct {

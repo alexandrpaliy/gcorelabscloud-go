@@ -3,10 +3,10 @@ package tasks
 import (
 	"fmt"
 
-	"github.com/G-Core/gcorelabscloud-go/client/tasks/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/tasks/v1/client"
 
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 
 	"github.com/urfave/cli/v2"
 )

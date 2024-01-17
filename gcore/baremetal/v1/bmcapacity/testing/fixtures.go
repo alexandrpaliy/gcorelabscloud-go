@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/baremetal/v1/bmcapacity"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/baremetal/v1/bmcapacity"
 
 const (
 	availableNodesResponse = `

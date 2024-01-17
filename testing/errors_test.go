@@ -3,8 +3,8 @@ package testing
 import (
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func TestGetResponseCode(t *testing.T) {

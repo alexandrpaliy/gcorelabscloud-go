@@ -6,11 +6,11 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/reservedfixedips/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/reservedfixedips/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 var portIDText = "port_id is mandatory argument"

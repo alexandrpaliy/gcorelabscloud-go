@@ -1,7 +1,7 @@
 package testing
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/loadbalancers"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/loadbalancers"
 )
 
 var (

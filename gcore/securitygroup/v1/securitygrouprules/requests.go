@@ -1,8 +1,8 @@
 package securitygrouprules
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/securitygroup/v1/securitygroups"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/securitygroup/v1/securitygroups"
 )
 
 // Replace accepts a CreateOpts struct and creates a new security group rule using the values provided.

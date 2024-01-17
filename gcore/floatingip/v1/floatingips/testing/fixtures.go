@@ -5,16 +5,16 @@ import (
 	"net"
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/flavor/v1/flavors"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/flavor/v1/flavors"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/floatingip/v1/floatingips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/floatingip/v1/floatingips"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 var ListResponse = fmt.Sprintf(`

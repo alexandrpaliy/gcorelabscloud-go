@@ -1,6 +1,6 @@
 package quotas
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 type Quota map[string]int
 

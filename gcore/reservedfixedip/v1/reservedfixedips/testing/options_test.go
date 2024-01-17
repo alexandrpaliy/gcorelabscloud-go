@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
 )
 
 func TestCreateOpts(t *testing.T) {

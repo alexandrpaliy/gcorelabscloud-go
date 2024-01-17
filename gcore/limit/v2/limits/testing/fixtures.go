@@ -3,9 +3,9 @@ package testing
 import (
 	"time"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/limit/v2/limits"
-	"github.com/G-Core/gcorelabscloud-go/gcore/limit/v2/types"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/limit/v2/limits"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/limit/v2/types"
 )
 
 const CreateRequest = `

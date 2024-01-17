@@ -1,11 +1,11 @@
 package regionsaccess
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/client/regions/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/gcore/regionaccess/v1/regionsaccess"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/regions/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/regionaccess/v1/regionsaccess"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
 	"github.com/urfave/cli/v2"
 )
 

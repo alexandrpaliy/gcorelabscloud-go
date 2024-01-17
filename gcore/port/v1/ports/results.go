@@ -1,9 +1,9 @@
 package ports
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
-	"github.com/G-Core/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
 )
 
 type commonResult struct {

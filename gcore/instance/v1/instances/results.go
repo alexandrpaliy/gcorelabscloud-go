@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"net"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/ddos/v1/ddos"
-	"github.com/G-Core/gcorelabscloud-go/gcore/flavor/v1/flavors"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/ddos/v1/ddos"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/flavor/v1/flavors"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 )
 
 const DefaultAvailabilityZone = "nova"

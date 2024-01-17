@@ -3,7 +3,7 @@ package apitokens
 import (
 	"strconv"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func resourceURL(c *gcorecloud.ServiceClient, clientID, tokenID int) string {

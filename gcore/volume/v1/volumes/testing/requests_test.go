@@ -5,15 +5,15 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 
-	gtesting "github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata/v1/metadata/testing"
+	gtesting "github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata/v1/metadata/testing"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 
-	"github.com/G-Core/gcorelabscloud-go/pagination"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func prepareListTestURLParams(projectID int, regionID int) string {

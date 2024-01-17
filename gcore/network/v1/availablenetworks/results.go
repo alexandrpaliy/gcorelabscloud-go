@@ -1,10 +1,10 @@
 package availablenetworks
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/subnet/v1/subnets"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/subnet/v1/subnets"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 )
 
 // Network represents a network structure.

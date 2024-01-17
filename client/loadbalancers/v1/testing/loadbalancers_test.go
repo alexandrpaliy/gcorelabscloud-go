@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/loadbalancers"
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/loadbalancers"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/types"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/loadbalancers/v1/client"
-	gtest "github.com/G-Core/gcorelabscloud-go/client/testing"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/loadbalancers/v1/client"
+	gtest "github.com/alexandrpaliy/gcorelabscloud-go/client/testing"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
 )
 
 const (

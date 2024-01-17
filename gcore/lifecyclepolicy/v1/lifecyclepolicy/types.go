@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 	"github.com/shopspring/decimal"
 )
 

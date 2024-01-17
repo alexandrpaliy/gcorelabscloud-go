@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"testing"
 
-	gtest "github.com/G-Core/gcorelabscloud-go/client/testing"
-	"github.com/G-Core/gcorelabscloud-go/client/volumes/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
+	gtest "github.com/alexandrpaliy/gcorelabscloud-go/client/testing"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/volumes/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
 )
 
 func TestVolumeMetadata(t *testing.T) {

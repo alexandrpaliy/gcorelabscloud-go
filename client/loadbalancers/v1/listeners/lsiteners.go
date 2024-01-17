@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"strings"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/loadbalancers/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/listeners"
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/loadbalancers/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/listeners"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 
 	"github.com/urfave/cli/v2"
 )

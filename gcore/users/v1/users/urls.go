@@ -1,6 +1,6 @@
 package users
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 func createUserURL(c *gcorecloud.ServiceClient) string {
 	return c.BaseServiceURL("users")

@@ -3,13 +3,13 @@ package testing
 import (
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/keystone/v1/keystones"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/keystone/v1/keystones"
 
-	keystonetypes "github.com/G-Core/gcorelabscloud-go/gcore/keystone/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/region/v1/types"
+	keystonetypes "github.com/alexandrpaliy/gcorelabscloud-go/gcore/keystone/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/region/v1/types"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/region/v1/regions"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/region/v1/regions"
 )
 
 const ListResponse = `

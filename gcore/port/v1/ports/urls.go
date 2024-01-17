@@ -1,6 +1,6 @@
 package ports
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 func resourceActionURL(c *gcorecloud.ServiceClient, id string, action string) string {
 	return c.ServiceURL(id, action)

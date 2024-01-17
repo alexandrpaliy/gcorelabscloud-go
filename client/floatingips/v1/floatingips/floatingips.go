@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"net"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/floatingips/v1/availablefloatingips"
-	"github.com/G-Core/gcorelabscloud-go/client/floatingips/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	cmeta "github.com/G-Core/gcorelabscloud-go/client/utils/metadata"
-	"github.com/G-Core/gcorelabscloud-go/gcore/floatingip/v1/floatingips"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/floatingips/v1/availablefloatingips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/floatingips/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	cmeta "github.com/alexandrpaliy/gcorelabscloud-go/client/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/floatingip/v1/floatingips"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 	"github.com/urfave/cli/v2"
 )
 

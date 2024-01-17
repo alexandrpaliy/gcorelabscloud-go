@@ -5,22 +5,22 @@ import (
 	"net/http"
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/flavor/v1/flavors"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/flavor/v1/flavors"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
 
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 
 	"github.com/stretchr/testify/require"
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/G-Core/gcorelabscloud-go/pagination"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func prepareListTestURLParams(version string, projectID int, regionID int) string {

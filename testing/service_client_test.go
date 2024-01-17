@@ -7,8 +7,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func TestServiceURL(t *testing.T) {

@@ -5,10 +5,10 @@ import (
 	"net"
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/router/v1/routers"
-	"github.com/G-Core/gcorelabscloud-go/gcore/router/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/subnet/v1/subnets"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/router/v1/routers"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/router/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/subnet/v1/subnets"
 	"github.com/stretchr/testify/require"
 )
 

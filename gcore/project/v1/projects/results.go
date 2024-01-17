@@ -1,10 +1,10 @@
 package projects
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/project/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/project/v1/types"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 )
 
 type commonResult struct {

@@ -1,6 +1,6 @@
 package bmcapacity
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 // GetAvailableNodes retrieves available baremetal nodes
 func GetAvailableNodes(c *gcorecloud.ServiceClient) (r GetAvailableNodesResult) {

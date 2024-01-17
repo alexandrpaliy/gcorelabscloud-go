@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/ddos/v1/ddos"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/ddos/v1/ddos"
 	"github.com/stretchr/testify/require"
 )
 

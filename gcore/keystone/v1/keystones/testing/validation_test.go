@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/keystone/v1/types"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/keystone/v1/types"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/keystone/v1/keystones"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/keystone/v1/keystones"
 	"github.com/stretchr/testify/require"
 )
 

@@ -7,20 +7,20 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/G-Core/gcorelabscloud-go/client/instances/v1/client"
-	client2 "github.com/G-Core/gcorelabscloud-go/client/instances/v2/client"
-	"github.com/G-Core/gcorelabscloud-go/gcore/baremetal/v1/bminstances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/instances/v1/client"
+	client2 "github.com/alexandrpaliy/gcorelabscloud-go/client/instances/v2/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/baremetal/v1/bminstances"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/types"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
 )
 
 var (

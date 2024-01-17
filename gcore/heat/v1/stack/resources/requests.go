@@ -3,11 +3,11 @@ package resources
 import (
 	"bytes"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/heat/v1/stack/resources/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/heat/v1/stack/resources/types"
 
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 // Metadata retrieves metadata for heat resource

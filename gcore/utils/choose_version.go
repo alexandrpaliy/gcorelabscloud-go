@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 // Version is a supported API version, corresponding to a vN package within the appropriate service.

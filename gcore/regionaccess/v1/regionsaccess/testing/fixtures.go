@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/regionaccess/v1/regionsaccess"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/regionaccess/v1/regionsaccess"
 
 const ListResponse = `
 {

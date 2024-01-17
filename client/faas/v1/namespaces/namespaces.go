@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/faas/v1/client"
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/faas/v1/faas"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/faas/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/faas/v1/faas"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 
 	"github.com/urfave/cli/v2"
 )

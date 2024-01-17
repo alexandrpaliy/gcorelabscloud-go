@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func TestMaybeString(t *testing.T) {

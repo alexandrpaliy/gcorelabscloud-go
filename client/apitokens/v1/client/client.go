@@ -1,9 +1,9 @@
 package client
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/client/common"
-	"github.com/G-Core/gcorelabscloud-go/gcore"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/common"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore"
 	"github.com/urfave/cli/v2"
 )
 

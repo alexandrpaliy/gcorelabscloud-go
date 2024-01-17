@@ -1,7 +1,7 @@
 package users
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 // UserAssignmentOptsBuilder allows extensions to add additional parameters to the user assignment request.

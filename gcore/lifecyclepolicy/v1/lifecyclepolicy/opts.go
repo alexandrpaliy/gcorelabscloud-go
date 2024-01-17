@@ -1,7 +1,7 @@
 package lifecyclepolicy
 
 // nolint:goimports
-import "github.com/G-Core/gcorelabscloud-go"
+import "github.com/alexandrpaliy/gcorelabscloud-go"
 
 // Options used for query parameters
 

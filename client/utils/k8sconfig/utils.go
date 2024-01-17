@@ -7,7 +7,7 @@ import (
 
 	"k8s.io/client-go/tools/clientcmd"
 
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
 )
 
 var defaultK8sConfigPath = "~/.kube/config"

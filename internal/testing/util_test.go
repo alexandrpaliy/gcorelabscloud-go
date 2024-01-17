@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/internal"
+	"github.com/alexandrpaliy/gcorelabscloud-go/internal"
 )
 
 func TestRemainingKeys(t *testing.T) {

@@ -3,11 +3,11 @@ package testing
 import (
 	"testing"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/k8s/v2/pools"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/k8s/v2/pools"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/k8s/v2/clusters"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/k8s/v2/clusters"
 
 	"github.com/stretchr/testify/require"
 )

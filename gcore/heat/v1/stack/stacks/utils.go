@@ -11,7 +11,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 // Client is an interface that expects a Get method similar to http.Get. This

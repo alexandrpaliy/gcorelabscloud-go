@@ -5,10 +5,10 @@ import (
 
 	uuid "github.com/satori/go.uuid"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/region/v1/types"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/region/v1/types"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/region/v1/regions"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/region/v1/regions"
 	"github.com/stretchr/testify/require"
 )
 

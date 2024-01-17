@@ -1,7 +1,7 @@
 package tokens
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 // commonResult is the response from a request. A commonResult has various

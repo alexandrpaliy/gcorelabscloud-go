@@ -6,14 +6,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 var testURL = "/v1/magnum/"

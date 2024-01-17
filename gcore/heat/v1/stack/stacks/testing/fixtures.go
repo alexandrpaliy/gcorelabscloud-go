@@ -3,9 +3,9 @@ package testing
 import (
 	"time"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/heat/v1/stack/stacks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/heat/v1/stack/stacks"
 )
 
 const ListResponse = `

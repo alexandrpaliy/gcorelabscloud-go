@@ -3,11 +3,11 @@ package testing
 import (
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/snapshot/v1/snapshots"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/snapshot/v1/snapshots"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 const ListResponse = `

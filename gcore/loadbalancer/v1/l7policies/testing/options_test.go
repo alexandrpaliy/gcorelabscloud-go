@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/l7policies"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/l7policies"
 )
 
 func TestCreateOpts(t *testing.T) {

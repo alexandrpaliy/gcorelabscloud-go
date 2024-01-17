@@ -1,9 +1,9 @@
 package client
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore"
-	"github.com/G-Core/gcorelabscloud-go/testhelper"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore"
+	"github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 // Fake token to use.

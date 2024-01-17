@@ -1,8 +1,8 @@
 package tasks
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 )
 
 // List returns a Pager which allows you to iterate over a collection of

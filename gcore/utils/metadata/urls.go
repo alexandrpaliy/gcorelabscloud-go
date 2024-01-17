@@ -3,7 +3,7 @@ package metadata
 import (
 	"fmt"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func ResourceActionURL(c *gcorecloud.ServiceClient, id string, action string) string {

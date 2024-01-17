@@ -3,7 +3,7 @@ package testing
 import (
 	"time"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/heat/v1/stack/resources"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/heat/v1/stack/resources"
 )
 
 const MetadataResponse = `

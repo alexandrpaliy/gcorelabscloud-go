@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/G-Core/gcorelabscloud-go/cmd"
+	"github.com/alexandrpaliy/gcorelabscloud-go/cmd"
 )
 
 func main() {

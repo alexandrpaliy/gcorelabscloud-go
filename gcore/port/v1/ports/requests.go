@@ -3,8 +3,8 @@ package ports
 import (
 	"net/http"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/reservedfixedip/v1/reservedfixedips"
 )
 
 // AllowAddressPairsOptsBuilder allows extensions to add additional parameters to the AllowAddressPairs request.

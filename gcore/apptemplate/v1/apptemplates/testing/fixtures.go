@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/apptemplate/v1/apptemplates"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/apptemplate/v1/apptemplates"
 
 const ListResponse = `
 {

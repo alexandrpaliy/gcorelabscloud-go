@@ -3,8 +3,8 @@ package testing
 import (
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils"
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 type urlTestCases struct {

@@ -1,7 +1,7 @@
 package testing
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/ai/v1/aiflavors"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/ai/v1/aiflavors"
 )
 
 const ListResponse = `

@@ -5,14 +5,14 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/laas/v1/laas"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/laas/v1/laas"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 	"github.com/stretchr/testify/require"
 
 	log "github.com/sirupsen/logrus"
 
-	th "github.com/G-Core/gcorelabscloud-go/testhelper"
+	th "github.com/alexandrpaliy/gcorelabscloud-go/testhelper"
 )
 
 func prepareSectionTestURLParams(projectID int, regionID int, section string) string { // nolint

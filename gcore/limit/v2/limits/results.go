@@ -1,9 +1,9 @@
 package limits
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/limit/v2/types"
-	"github.com/G-Core/gcorelabscloud-go/pagination"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/limit/v2/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/pagination"
 )
 
 type commonResult struct {

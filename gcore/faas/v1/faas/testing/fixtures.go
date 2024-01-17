@@ -1,8 +1,8 @@
 package testing
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/faas/v1/faas"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/faas/v1/faas"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 const getNamespaceResponse = `

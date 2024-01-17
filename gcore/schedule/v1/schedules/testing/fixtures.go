@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/lifecyclepolicy/v1/lifecyclepolicy"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/lifecyclepolicy/v1/lifecyclepolicy"
 
 const GetResponseCron = `
 {

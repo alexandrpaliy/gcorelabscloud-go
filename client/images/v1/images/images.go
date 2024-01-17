@@ -4,19 +4,19 @@ import (
 	"fmt"
 	"strings"
 
-	cmeta "github.com/G-Core/gcorelabscloud-go/client/utils/metadata"
+	cmeta "github.com/alexandrpaliy/gcorelabscloud-go/client/utils/metadata"
 
-	"github.com/G-Core/gcorelabscloud-go/client/images/v1/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/images/v1/client"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/G-Core/gcorelabscloud-go/client/flags"
-	"github.com/G-Core/gcorelabscloud-go/client/utils"
-	"github.com/G-Core/gcorelabscloud-go/gcore/image/v1/images"
-	"github.com/G-Core/gcorelabscloud-go/gcore/image/v1/images/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/flags"
+	"github.com/alexandrpaliy/gcorelabscloud-go/client/utils"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/image/v1/images"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/image/v1/images/types"
 )
 
 var (

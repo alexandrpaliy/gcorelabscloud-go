@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/laas/v1/laas"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/laas/v1/laas"
 
 const getStatusResponse = `
 {

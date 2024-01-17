@@ -5,7 +5,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/subnet/v1/subnets"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/subnet/v1/subnets"
 	"github.com/stretchr/testify/require"
 )
 

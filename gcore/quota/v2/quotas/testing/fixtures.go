@@ -3,7 +3,7 @@ package testing
 import (
 	"fmt"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/quota/v2/quotas"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/quota/v2/quotas"
 )
 
 const GlobalResponse = `

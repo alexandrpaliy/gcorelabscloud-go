@@ -1,6 +1,6 @@
 package bmcapacity
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 type availableNodesResult struct {
 	gcorecloud.Result

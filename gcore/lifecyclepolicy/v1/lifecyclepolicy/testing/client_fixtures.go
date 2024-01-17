@@ -1,8 +1,8 @@
 package testing
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/lifecyclepolicy/v1/lifecyclepolicy"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/lifecyclepolicy/v1/lifecyclepolicy"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 )
 
 var (

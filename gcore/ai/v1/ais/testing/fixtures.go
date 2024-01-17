@@ -4,13 +4,13 @@ import (
 	"net"
 	"time"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	ai "github.com/G-Core/gcorelabscloud-go/gcore/ai/v1/ais"
-	"github.com/G-Core/gcorelabscloud-go/gcore/flavor/v1/flavors"
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/utils/metadata"
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	ai "github.com/alexandrpaliy/gcorelabscloud-go/gcore/ai/v1/ais"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/flavor/v1/flavors"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/utils/metadata"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
 )
 
 const ListResponse = `

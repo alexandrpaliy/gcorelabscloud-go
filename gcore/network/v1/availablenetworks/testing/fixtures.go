@@ -5,11 +5,11 @@ import (
 	"net"
 	"time"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
-	"github.com/G-Core/gcorelabscloud-go/gcore/network/v1/availablenetworks"
-	"github.com/G-Core/gcorelabscloud-go/gcore/subnet/v1/subnets"
-	"github.com/G-Core/gcorelabscloud-go/gcore/subnet/v1/subnets/testing"
-	fake "github.com/G-Core/gcorelabscloud-go/testhelper/client"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/network/v1/availablenetworks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/subnet/v1/subnets"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/subnet/v1/subnets/testing"
+	fake "github.com/alexandrpaliy/gcorelabscloud-go/testhelper/client"
 )
 
 var ListResponse = fmt.Sprintf(`

@@ -1,6 +1,6 @@
 package testing
 
-import "github.com/G-Core/gcorelabscloud-go/gcore/loadbalancer/v1/lbflavors"
+import "github.com/alexandrpaliy/gcorelabscloud-go/gcore/loadbalancer/v1/lbflavors"
 
 const ListResponse = `
 {

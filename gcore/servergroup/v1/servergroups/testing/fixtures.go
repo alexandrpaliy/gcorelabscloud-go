@@ -1,8 +1,8 @@
 package testing
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/servergroup/v1/servergroups"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/servergroup/v1/servergroups"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 const TaskResponse = `

@@ -3,7 +3,7 @@ package quotas
 import (
 	"strconv"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func getCombinedURL(c *gcorecloud.ServiceClient) string {

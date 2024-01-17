@@ -3,7 +3,7 @@ package file_shares
 import (
 	"fmt"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func resourceURL(c *gcorecloud.ServiceClient, id string) string {

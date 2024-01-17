@@ -1,6 +1,6 @@
 package flavors
 
-import gcorecloud "github.com/G-Core/gcorelabscloud-go"
+import gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
 func rootURL(c *gcorecloud.ServiceClient) string {
 	return c.ServiceURL()

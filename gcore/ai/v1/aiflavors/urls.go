@@ -1,7 +1,7 @@
 package aiflavors
 
 import (
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 )
 
 func listAIFlavorsURL(c *gcorecloud.ServiceClient) string {

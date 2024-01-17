@@ -1,8 +1,8 @@
 package testing
 
 import (
-	"github.com/G-Core/gcorelabscloud-go/gcore/ddos/v1/ddos"
-	"github.com/G-Core/gcorelabscloud-go/gcore/task/v1/tasks"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/ddos/v1/ddos"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/task/v1/tasks"
 )
 
 const (

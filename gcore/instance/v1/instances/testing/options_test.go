@@ -4,13 +4,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/volume/v1/volumes"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/volume/v1/volumes"
 
-	gcorecloud "github.com/G-Core/gcorelabscloud-go"
+	gcorecloud "github.com/alexandrpaliy/gcorelabscloud-go"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/types"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/types"
 
-	"github.com/G-Core/gcorelabscloud-go/gcore/instance/v1/instances"
+	"github.com/alexandrpaliy/gcorelabscloud-go/gcore/instance/v1/instances"
 
 	"github.com/stretchr/testify/require"
 )
