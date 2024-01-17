@@ -1,4 +1,4 @@
-module github.com/G-Core/gcorelabscloud-go
+module github.com/alexandrpaliy/gcorelabscloud-go
 
 go 1.21
 
