@@ -79,7 +79,8 @@ type CreateOptsBuilder interface {
 // CreateVolumeOpts represents options used to create a volume.
 type CreateVolumeOpts struct {
 	Source              types.VolumeSource `json:"source" required:"true" validate:"required,enum"`
-	BootIndex           int                `json:"boot_index"`
+	// BootIndex           int                `json:"boot_index"`
+	BootIndex           int                `json:"boot_index,omitempty"`
 	Size                int                `json:"size,omitempty" validate:"rfe=Source:image;new-volume,sfe=Source:snapshot;existing-volume"`
 	TypeName            volumes.VolumeType `json:"type_name,omitempty" validate:"omitempty"`
 	AttachmentTag       string             `json:"attachment_tag,omitempty" validate:"omitempty"`
